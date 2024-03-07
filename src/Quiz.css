@@ -1,0 +1,84 @@
+.container {
+     border:1px solid black;
+     margin-left:150px;
+     margin-right: 150px;
+     position: relative;
+}
+.head{
+    padding: 7px;
+    color: white;
+    background-color: #e0218a;
+}
+.question{
+    background-color: #e0218a;
+    border-bottom: 1px solid black ;
+    padding: 16px;
+    color:white;
+}
+
+.options{
+    border: 1px solid #008080 ;
+    background-color: #008080;
+    border-bottom: 1px solid white ;
+    padding: 10px;
+}
+.optionButtons{
+    color:white;
+    background-color:#e0218a ;
+    border-color: #e0218a;
+    align-items: center ;
+    width: 300px;
+    padding: 7px;
+    margin: 13px;
+}
+.optionsNextbutton{
+    background-color: #008080;
+.nextButton{
+    padding: 15px;
+}
+}
+.button1{
+    color:white;
+    background-color:#e0218a ;
+    border-color: #e0218a;
+    margin-bottom: 5px;
+    width: 150px;
+    padding: 7px;
+    margin: 7px;
+    
+}
+.option-btn{
+    box-shadow: 0px 0px 4px 1px rgb(128, 123, 123);
+    padding: 5px;
+    border-radius: 3px;
+    border:none;
+    outline: none;
+    transition: 0.3s;
+    margin: 5px;
+    min-height: 30px;
+    background-color: white;
+  }
+  
+  .checked{
+    background-color:white;
+    color:#e0218a;
+    box-shadow: 3px 3px 4px 1px rgb(78, 69, 78);
+  }
+  .optionButtons:hover{
+    background-color:white;
+    color:#e0218a;
+    border-color: white;
+  }
+  .optionButtons:active{
+    background-color:white;
+    color:#e0218a;
+    border-color: white;
+  }
+  .optionButtons:focus{
+    background-color:white;
+    color:#e0218a;
+    border-color: white;
+  }
+  .result{
+    border:1px solid #e0218a
+  }
