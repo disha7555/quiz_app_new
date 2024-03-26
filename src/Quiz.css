@@ -1,18 +1,18 @@
 .container {
      border:1px solid black;
-     margin-left:150px;
-     margin-right: 150px;
+     margin-left:10%;
+     margin-right: 10%;
      position: relative;
 }
 .head{
-    padding: 7px;
+    padding: 0.5%;
     color: white;
     background-color: #e0218a;
 }
 .question{
     background-color: #e0218a;
     border-bottom: 1px solid black ;
-    padding: 16px;
+    padding:16px;
     color:white;
 }
 
@@ -27,7 +27,7 @@
     background-color:#e0218a ;
     border-color: #e0218a;
     align-items: center ;
-    width: 300px;
+    width: 30%;
     padding: 7px;
     margin: 13px;
 }

@@ -43,7 +43,7 @@ const resetAll=()=>{
   
  {/* return( */}
         <>
-        <div>
+        <div style={{width:"100%",justifyContent:"center"}}>
             
             <h3 className='head'>Quiz App</h3>
             <div className ="container">
